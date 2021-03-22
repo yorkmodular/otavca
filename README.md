@@ -33,4 +33,3 @@ This is where it gets tricky - although you can probably calibrate things by ear
 ### Purchase Links
 
 * Pre-built module (4HP) - [https://www.yorkmodular.co.uk/products/otavca-dual-lm13700-linear-vca-4hp](https://www.yorkmodular.co.uk/products/otavca-dual-lm13700-linear-vca-4hp)
-* Kit - [https://www.yorkmodular.co.uk/products/full-kit-dual-lm13700-linear-vca-4hp](https://www.yorkmodular.co.uk/products/full-kit-dual-lm13700-linear-vca-4hp)
